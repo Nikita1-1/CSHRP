@@ -1,0 +1,8 @@
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.AssemblyReference.cache
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.AssemblyInfoInputs.cache
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.AssemblyInfo.cs
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.CoreCompileInputs.cache
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.RazorAssemblyInfo.cache
+C:\Users\sazon\OneDrive\Рабочий стол\Blog\Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.RazorAssemblyInfo.cs
