@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ErXx1Y+OvOiF/ReO7OrQ8SaGHXdt1Lz31CZwejV/Ido2n/amGSQayJw/Rx/cyoA7nG6+Aj9UMRgPqhEZ8EVPDw==",
+  "dgSpecHash": "f5prmCAvSIwbw3zpL72jW6ZGecBosijpC+8gzgxEA0PAqH0+a4k9zJs+LFaQECYkOtJB0SS/HU/V4SsEEokRSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
+  "projectFilePath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\CSHRP\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sazon\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sazon\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

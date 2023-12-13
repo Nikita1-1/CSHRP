@@ -2891,11 +2891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
+      "projectUniqueName": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\CSHRP\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
       "projectName": "Bloggie",
-      "projectPath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
+      "projectPath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\CSHRP\\Bloggie.Web\\Bloggie\\Bloggie.csproj",
       "packagesPath": "C:\\Users\\sazon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\Bloggie.Web\\Bloggie\\obj\\",
+      "outputPath": "C:\\Users\\sazon\\OneDrive\\Рабочий стол\\Blog\\CSHRP\\Bloggie.Web\\Bloggie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
